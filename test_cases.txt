@@ -1,0 +1,53 @@
+Current_Date|Message to be generated
+
+01-01-2020|2 months from now on Sunday, 15th of March
+31-01-2020|2 months from now on Sunday, 15th of March
+01-02-2020|Next month on Sunday, 15th of March
+13-02-2020|Next month on Sunday, 15th of March
+14-02-2020|30 days from now on Sunday, 15th of March
+15-02-2020|Next month on Sunday, 15th of March
+16-02-2020|28 days from now on Sunday, 15th of March
+17-02-2020|After 3 weeks on Sunday, 15th of March
+22-02-2020|After 3 weeks on Sunday, 15th of March
+23-02-2020|3 weeks from now on Sunday, 15th of March
+24-02-2020|20 days from now on Sunday, 15th of March
+29-02-2020|15 days from now on Sunday, 15th of March
+01-03-2020|2 weeks from now on Sunday, 15th of March
+02-03-2020|Next Sunday on Sunday, 15th of March
+08-03-2020|Next Sunday on Sunday, 15th of March
+09-03-2020|Coming Sunday on Sunday, 15th of March
+10-03-2020|Coming Sunday on Sunday, 15th of March
+11-03-2020|Coming Sunday on Sunday, 15th of March
+12-03-2020|Coming Sunday on Sunday, 15th of March
+13-03-2020|Day after tomorrow on Sunday, 15th of March
+14-03-2020|Tomorrow on Sunday, 15th of March
+15-03-2020|Today on Sunday, 15th of March
+16-03-2020|Yesterday on Sunday, 15th of March
+17-03-2020|Day before Yesterday on Sunday, 15th of March
+18-03-2020|3 days back on Sunday, 15th of March
+19-03-2020|4 days back on Sunday, 15th of March
+20-03-2020|5 days back on Sunday, 15th of March
+21-03-2020|6 days back on Sunday, 15th of March
+22-03-2020|Last Sunday on Sunday, 15th of March
+23-03-2020|In the Last week on Sunday, 15th of March
+28-03-2020|In the Last week on Sunday, 15th of March
+29-03-2020|2 weeks ago on Sunday, 15th of March
+04-04-2020|2 weeks ago on Sunday, 15th of March
+05-04-2020|3 weeks ago on Sunday, 15th of March
+06-04-2020|3 weeks ago on Sunday, 15th of March
+11-04-2020|3 weeks ago on Sunday, 15th of March
+12-04-2020|Almost a month ago on Sunday, 15th of March
+13-04-2020|Almost a month ago on Sunday, 15th of March
+14-04-2020|Almost a month ago on Sunday, 15th of March
+15-04-2020|Last month on Sunday, 15th of March
+16-04-2020|Last month on Sunday, 15th of March
+30-04-2020|Last month on Sunday, 15th of March
+01-05-2020|2 months ago on Sunday, 15th of March
+31-05-2020|2 months ago on Sunday, 15th of March
+01-06-2020|3 months ago on Sunday, 15th of March
+01-07-2020|4 months ago on Sunday, 15th of March
+01-08-2020|5 months ago on Sunday, 15th of March
+01-09-2020|6 months ago on Sunday, 15th of March
+01-10-2020|7 months ago on Sunday, 15th of March
+01-11-2020|8 months ago on Sunday, 15th of March
+01-12-2020|9 months ago on Sunday, 15th of March
